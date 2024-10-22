@@ -1,0 +1,244 @@
+
+
+a{color: red;
+text-decoration: none;
+font-size: large;
+}
+#header{ display: flex;
+align-items: center;
+justify-content: space-between;
+padding: 20px 80px;
+background-color: rgb(171, 22, 22);
+background: rgb(58, 58, 252);
+box-shadow: 0 5px 15px rgba(0,0,0,0.06);
+box-shadow: 0 5px 5px pink;
+z-index: 999;
+position: sticky;
+top: 0;
+left: 0;}
+#navbar{ display: flex;
+align-items: center;
+justify-content: center;}
+#navbar li{ list-style: none;
+padding: 0 20px;}
+.www{ font-size: larger;}
+
+
+.sh1 {
+    text-align: center;
+    background-color: white;
+    text-size-adjust: 40%;
+    background-color: chocolate;
+}
+
+a{ font-family: 'Courier New', Courier, monospace;
+text-decoration: none;
+font-size: 16px;
+font-weight: 600;
+color: black;
+}
+#navbar li a:hover , #navbar li a:hover{ color: red;
+transition: 0.2s ease;}
+#navbar li a.active::after,
+#navbar li a:hover::after {content: "";
+width: 30%;
+height: 20x;
+background: #088178;
+position: absolute;
+bottom: -4px;
+left: 20px;
+}
+#hero{ background-image: url(trendy-beautiful-young-asian-woman-260nw-1590685858.webp);
+background-position: top 25% right 0;
+padding: 0 80px;
+background-size: cover;
+height: 90vh;
+width: 100%;
+display: flex;flex-direction: column;
+align-items: flex-start;
+justify-content: center;
+}
+#hero h4{ padding: 15px;
+}
+:hover button{ color: red;}
+#hero h1{ color: white;}
+#hero button{ background-color: rgb(219, 219, 143);
+border: 0px;
+color: wheat;
+padding: 14px 80px 14px 65px;
+}
+#feature{ padding: 40px 80px;}
+#feature .fe-box{ width: 180px;
+padding: 25px 15px;
+text-align: center;
+background-color: pink;
+border: 1px  solid white;
+border-radius: 4px;
+margin: 15px 0px;
+}
+
+
+#feature{ display: flex;
+align-items: center;
+justify-content: space-between;
+flex-wrap: wrap;
+
+}
+#feature .fe-box:hover{ box-shadow: 10px 10px 54px red;}
+#feature .fe-box h6{
+padding: 9px 8px 6px 8px;
+display: inline;
+line-height: 1;
+border-radius: 4px;
+color: black;
+}
+#feature .fe-box img{
+width: 100%;
+margin-bottom: 10;
+padding-bottom: 5px;
+}
+#product1{ 
+    text-align : center;
+}
+#product1 .pro-container{ 
+    display: flex;
+    justify-content: space-between;
+    padding-top: 29p x;
+    flex-wrap: wrap;
+}
+#product1 .pro{
+    width: 23%;
+    min-width: 250px;
+    padding: 10px 12px;
+    border: 1px solid rgb(236, 223, 223);
+    cursor: pointer;
+    margin: 15px 0px;
+}
+
+
+#product1 .pro img{
+    width: 100%;
+    height: 50%;
+    border-radius: 20px;
+}
+#product1 .pro:hover{
+    box-shadow:20px 20px 30px rgba(0,0,0,0.06);
+    transition: 0.3 ease;
+    
+}
+#product1 .pro .des span
+{
+    color: #088178;
+    font-size: 12px;
+}
+#banner{ padding: 40px 0px;
+
+display: flex;
+justify-content: center;
+text-align: center;
+align-items: center;
+background-image: url(photo-1501999635878-71cb5379c2d8.jpg);
+width: 100%;
+height: 40vh;
+background-position: center;
+background-size: cover;}
+#banner h4{
+    color: white;
+    font-size: 16px;
+
+}
+#banner h2{ color: #fff;
+    font-size: 30px;
+    padding: 10px 0px;
+}
+#banner h2 span{ 
+    color: red;
+}
+
+
+
+h1{text-align: center;
+    background-color: white;
+text-size-adjust: 40%;
+background-color: chocolate;}
+
+
+#feature1{ padding: 40px 80px;}
+#feature1 .fe-box{ width: 180px;
+padding: 25px 15px;
+text-align: center;
+border: 1px  solid white;
+border-radius: 4px;
+margin: 15px 0px;
+}
+
+
+#feature1{ display: flex;
+align-items: center;
+justify-content: space-between;
+flex-wrap: wrap;
+}
+
+.fe-box{
+    background-color: #088178;
+}
+#feature1 .fe-box h6{
+padding: 9px 8px 6px 8px;
+display: inline;
+line-height: 1;
+border-radius: 4px;
+color: black;
+}
+#feature1 .fe-box img{
+width: 100%;
+margin-bottom: 10;
+padding-bottom: 5px;
+}
+#feature1{
+    background-image: url('waterfall.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    background-color: white;
+    text-size-adjust: 40%;
+    background-color: chocolate;
+}
+a{color: red;
+text-decoration: none;
+font-size: large;
+}
+#header{ display: flex;
+align-items: center;
+justify-content: space-between;
+padding: 20px 80px;
+background-color: rgb(171, 22, 22);
+background: rgb(58, 58, 252);
+box-shadow: 0 5px 15px rgba(0,0,0,0.06);
+box-shadow: 0 5px 5px pink;
+z-index: 999;
+position: sticky;
+top: 0;
+left: 0;}
+#navbar{ display: flex;
+align-items: center;
+justify-content: center;}
+#navbar li{ list-style: none;
+padding: 0 20px;}
+.lakshman{ color: blue;
+padding: 20px 20px;}
+.ram{
+    text-align: center;
+    margin-top: 10px;
+    height: 500px;
+    width: 300px;
+    margin-left: 40%;
+    border: 2px solid black;
+}
+.thankyou{background-image: url(WTW_ThankYouCards.jpg);
+  mask-repeat: no-repeat;
+    justify-content: center;
+}
+
